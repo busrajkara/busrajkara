@@ -1,8 +1,7 @@
-### Merhaba! 👋
-Ben Büşra Kara, İstanbul Gelişim Üniversitesi'nde Web Tasarım ve Kodlama bölümünde eğitim alıyorum. Yazılım geliştirmeyi ve tasarımı birleştirerek etkili projeler üretmekten keyif alıyorum!
+### Who am I?
+I'm Büşra Kara, a Web Design and Coding student at Istanbul Gelişim University. I love focusing on frontend development, combining design with coding to create visually engaging and interactive projects. I’m passionate about building user-friendly experiences through creative and functional design!
 
-
-### Becerilerim
+## My skills
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black)
@@ -18,12 +17,24 @@ Ben Büşra Kara, İstanbul Gelişim Üniversitesi'nde Web Tasarım ve Kodlama b
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
 
-### İletişim
+## Education
+
+- **Istanbul Gelişim University, Vocational School** 🎓
+  - *Web Design and Coding* (2022 - Present)
+
+- **Dilek Sabancı Vocational High School** 🥈
+  - *9th Grade* (2018 - 2019)
+
+- **Mustafa Kemal Anatolian High School** 🎓
+  - *High School Education* (2019 - 2022)
+
+
+## Communication
 - [LinkedIn](https://www.linkedin.com/in/b%C3%BC%C5%9Fra-kara-394aba317/)
 - [GitHub](https://github.com/busrajkara)
 - 📫 Email:  busra.kara.3234@gmail.com
 
-### GitHub İstatistiklerim
+## My GitHub Statistics
 ![Büşra'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=busrajkara&show_icons=true&theme=radical)
 
 

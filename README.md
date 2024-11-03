@@ -19,14 +19,13 @@ I'm Büşra Kara, a Web Design and Coding student at Istanbul Gelişim Universit
 
 ## Education
 
-- **Istanbul Gelişim University, Vocational School** 🎓
-  - *Web Design and Coding* (2022 - Present)
-
 - **Dilek Sabancı Vocational High School** 🥈
   - *9th Grade* (2018 - 2019)
 
 - **Mustafa Kemal Anatolian High School** 🎓
   - *High School Education* (2019 - 2022)
+     - **Istanbul Gelişim University, Vocational School** 🎓
+  - *Web Design and Coding* (2022 - Present)
 
 
 ## Communication

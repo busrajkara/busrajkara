@@ -35,7 +35,11 @@ I'm Büşra Kara, a Web Design and Coding student at Istanbul Gelişim Universit
 - 📫 Email:  busra.kara.3234@gmail.com
 
 ## My GitHub Statistics
-![Büşra'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=busrajkara&show_icons=true&theme=radical)
+![Büşra's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=busrajkara&show_icons=true&theme=pastel&count_private=true&card_width=400)
+
+### Most Used Languages
+![Büşra's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busrajkara&layout=compact&theme=pastel)
+
 
 
 

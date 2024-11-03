@@ -1,7 +1,7 @@
-### Who am I?
-I'm Büşra Kara, a Web Design and Coding student at Istanbul Gelişim University. I love focusing on frontend development, combining design with coding to create visually engaging and interactive projects. I’m passionate about building user-friendly experiences through creative and functional design!
+# 🌸 Who am I?
+I'm **Büşra Kara**, a Web Design and Coding student at **Istanbul Gelişim University**. I love focusing on frontend development, combining design with coding to create visually engaging and interactive projects. I’m passionate about building user-friendly experiences through creative and functional design! 🐾
 
-## My skills
+## 💖 My Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black)
@@ -16,9 +16,7 @@ I'm Büşra Kara, a Web Design and Coding student at Istanbul Gelişim Universit
 ![SQL Server Management Studio](https://img.shields.io/badge/-SSMS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
-
-## Education
-
+## 🎓 Education
 - **Dilek Sabancı Vocational High School** 🥈
   - *9th Grade* (2018 - 2019)
 
@@ -28,23 +26,15 @@ I'm Büşra Kara, a Web Design and Coding student at Istanbul Gelişim Universit
 - **Istanbul Gelişim University, Vocational School** 🎓
   - *Web Design and Coding* (2022 - Present)
 
-
-## Communication
+## 📞 Communication
 - [LinkedIn](https://www.linkedin.com/in/b%C3%BC%C5%9Fra-kara-394aba317/)
 - [GitHub](https://github.com/busrajkara)
 - 📫 Email:  busra.kara.3234@gmail.com
 
-## My GitHub Statistics
-![Büşra's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=busrajkara&show_icons=true&theme=pastel&count_private=true&card_width=400)
+## 📈 My GitHub Statistics
 
-### Most Used Languages
-![Büşra's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busrajkara&layout=compact&theme=pastel)
-
-
-
-
-
-
-
+| Statistics | Most Used Languages |
+|------------|---------------------|
+| ![Büşra's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=busrajkara&show_icons=true&theme=light&count_private=true&bg_color=F8BBD0&text_color=FFFFFF&icon_color=FF4081) | ![Büşra's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busrajkara&layout=compact&theme=light&bg_color=F8BBD0&text_color=FFFFFF&icon_color=FF4081) |
 
 ![Profil Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=busrajkara&color=blue)

@@ -31,8 +31,8 @@ Frontend development, combining design with coding to create visually engaging a
 ![SQL Server Management Studio](https://img.shields.io/badge/-SSMS-B900B4?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![OpenCart](https://img.shields.io/badge/-OpenCart-1DACEF?style=flat-square&logo=open-cart&logoColor=white)
-![Scapy](https://img.shields.io/badge/-Scapy-3776AB?style=flat-square&logo=python&logoColor=white)
-![Siscopacket](https://img.shields.io/badge/-Siscopacket-3776AB?style=flat-square&logo=python&logoColor=white)
+![Siscopacket](https://img.shields.io/badge/-Siscopacket-FF5733?style=flat-square&logo=network&logoColor=white)
+
 
 ---
 

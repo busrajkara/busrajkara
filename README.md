@@ -48,6 +48,6 @@ XAMPP • Docker • Bootstrap • WordPress • SSMS • Microsoft Office
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=busrajkara\&show_icons=true\&theme=default\&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busrajkara\&layout=compact\&theme=default) |
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=busrajkara\&color=pink)
+![Profile View Counter](https://komarev.com/ghpvc/?username=busrajkara\&color=blue)
 
 ---

@@ -3,38 +3,8 @@
 **💻 Web Design & Coding Graduate**
 **📍 Istanbul Gelişim University | MYO**
 
-🎈 **4–11 yaş grubu için web tasarım** projeleriyle ilgileniyorum.
-🧸 Kodlama ve yaratıcılığı bir araya getirerek **eğitici, eğlenceli ve renkli dijital alanlar** tasarlamayı seviyorum.
-🗒️ GitHub benim için bir **öğrenme alanı ve dijital not defteri**.
 
----
-
-## ⭐ Yeteneklerim
-
-### 🖥️ Programlama Dilleri
-
-HTML • CSS • JavaScript • Python • PHP • C# • Java • SQL • Node.js • Next.js • Angular
-
-### 🎨 Tasarım Araçları
-
-Canva • Adobe Photoshop
-
-### 🔧 Diğer Araçlar
-
-XAMPP • Docker • Bootstrap • WordPress • SSMS • Microsoft Office
-
----
-
-## 📚 Eğitim
-
-🎓 **Dilek Sabancı MTAL** (2018 - 2019)
-🎓 **Mustafa Kemal Anadolu Lisesi** (2019 - 2022)
-🎓 **İstanbul Gelişim Üniversitesi, MYO**
-*Web Tasarımı ve Kodlama* (2022 - 2024)
-
----
-
-## 🌐 İletişim
+##  İletişim
 
 [LinkedIn](https://www.linkedin.com/in/b%C3%BC%C5%9Fra-kara-394aba317/)
 [GitHub](https://github.com/busrajkara)

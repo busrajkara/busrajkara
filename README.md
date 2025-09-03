@@ -1,62 +1,35 @@
+
+# Büşra Kara — Front-End & Web Developer
+
+---
+###  Teknik Yetkinliklerim
+
 <div align="center">
-  <img src="https://media.giphy.com/media/qgM9hTqPjL6vC/giphy.gif" alt="Coding GIF" width="150" height="150"/>
-  <h1>Merhaba, ben Büşra Kara! 👋</h1>
-  <p>Web Tasarımı ve Kodlama mezunuyum. İstanbul Gelişim Üniversitesi'nden yeni mezun oldum ve kendimi Front-End alanında geliştirmeye devam ediyorum. Yaratıcı ve kullanıcı odaklı web çözümleri geliştirmeye tutkuyla bağlıyım.</p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</div>
+
+
+---
+
+### 📈 GitHub İstatistiklerim
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=busrajkara&show_icons=true&theme=vue-dark&hide_title=true&hide_border=true" alt="Büşra Kara GitHub İstatistikleri" />
 </div>
 
 ---
 
-### 🌟 Hakkımda
+### 🤝 İletişim
 
--   🎓 Web Tasarımı ve Kodlama mezunu, **İstanbul Gelişim Üniversitesi**.
--   💻 Front-End dünyasına adım atmış, kendini sürekli geliştiren bir geliştirici.
--   🎨 Temiz kod yazma, modern arayüzler tasarlama ve kullanıcı deneyimini iyileştirme konularına odaklanıyorum.
--   🌱 **Şu anki hedeflerim:** React ve Vue.js becerilerimi derinleştirmek ve kişisel projelerle portföyümü güçlendirmek.
+Yeni fırsatlara ve iş birliklerine açığım. Lütfen aşağıdaki kanallardan benimle iletişime geçin.
 
----
-
-### ⚙️ Yeteneklerim
-
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,figma,vscode,vite" alt="Yetenekler" />
-  </a>
-</p>
-<br>
-<details>
-  <summary>Daha fazla bilgi için tıklayın</summary>
-  
-  - **Diller:** HTML, CSS, JavaScript (ES6+)
-  - **Frameworks/Kütüphaneler:** React (öğrenme aşamasında), Vue.js (başlangıç seviyesi)
-  - **Araçlar:** Git, GitHub, VS Code, Figma
-  - **İş Akışı:** Responsive Tasarım, UI/UX İlkeleri
-</details>
+-   **E-posta:** [busra.kara.3234@gmail.com](mailto:busra.kara.3234@gmail.com)
+-   **LinkedIn:** [linkedin.com/in/busra-kara](https://www.linkedin.com/in/busra-kara)
+-   **GitHub:** [github.com/busrajkara](https://github.com/busrajkara)
 
 ---
-
-### 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=busrajkara&show_icons=true&theme=default&count_private=true&hide_rank=true" alt="Büşra'nın GitHub İstatistikleri" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrajkara&layout=compact&theme=default" alt="Büşra'nın En Çok Kullandığı Diller" />
-</div>
-
-<br>
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=busrajkara&color=blue)
-
----
-
-### 📫 Bana Ulaşın
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/b%C3%9Crra-kara-394aba317/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/busrajkara">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:busra.kara.3234@gmail.com">
-    <img src="https://img.shields.io/badge/-E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta" />
-  </a>
-</div>

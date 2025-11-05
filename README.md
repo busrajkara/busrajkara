@@ -18,17 +18,11 @@
 
 ---
 
-### 📊 En Çok Kullandığım Diller
+### 📊 En Çok Kullandığım Diller      📈 GitHub İstatistiklerim
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrajkara&layout=compact&theme=vue-dark&hide_border=true" alt="En Çok Kullanılan Diller" />
-</div>
-
----
-
-### 📈 GitHub İstatistiklerim
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=busrajkara&show_icons=true&theme=vue-dark&hide_title=true&hide_border=true" alt="Büşra Kara GitHub İstatistikleri" />
 </div>
 

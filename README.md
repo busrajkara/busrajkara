@@ -1,58 +1,62 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/frapuccino/frapuccino/main/assets/kuromi_wave.gif" alt="Sanrio Developer Accent" width="220" />
+  <img src="https://i.pinimg.com/originals/18/69/82/186982f6f4b93dbbf3136746da0fc373.gif" alt="Strawberry Shortcake Wave" width="200" />
 </p>
 
-<h1 align="center">Büşra Kara</h1>
-<p align="center"><b>Frontend Developer & Software Specialist</b></p>
+<h1 align="center">🌸 Merhaba, Ben Büşra! 🍓</h1>
+<p align="center"><b>Öğrenmeye ve Yaratmaya Hevesli Junior Frontend Developer 🎀</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-FF69B4?style=for-the-badge&logo=typescript&logoColor=white" alt="TS Badge"/>
+  <img src="https://img.shields.io/badge/PHP-DB7093?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/>
 </p>
 
 ---
 
-## Professional Summary
+## 🌷 Hakkımda | About Me
 
-**TR**  
-İstanbul Gelişim Üniversitesi Web Tasarım ve Kodlama bölümü mezuniyetimin ardından, akademik altyapımı İstanbul Adıgüzel Üniversitesi bünyesinde tamamladığım Yazılım Uzmanlığı ihtisası ve sertifikasyonu ile ileri seviyeye taşıdım. Teori ile sektörel pratiği birleştirerek Frontend Development alanında uzmanlaştım. Ölçeklenebilir mimariler, performans optimizasyonu ve clean-code prensipleri doğrultusunda modern arayüz ekosistemleri inşa ediyorum.
+**TR** 🍓  
+İstanbul Gelişim Üniversitesi Web Tasarım ve Kodlama bölümünden mezun olduktan sonra, yazılım dünyasındaki çilek bahçeme ilk tohumları attım! 🌱 Ardından İstanbul Adıgüzel Üniversitesi'nde Yazılım Uzmanlığı eğitimi alarak teknik yeteneklerimi besledim. Şu an heyecanlı bir **Junior Frontend Developer** olarak; modern, kullanıcı dostu arayüzler tasarlıyor ve temiz kod (clean-code) prensiplerine özen gösteriyorum. Yeni teknolojiler keşfetmekten ve her projede kendime yeni bir şeyler katmaktan büyük mutluluk duyuyorum! ✨
 
-**EN**  
-Following my graduation from Istanbul Gelişim University in Web Design and Coding, I advanced my academic foundation by securing a Software Expertise certification from Istanbul Adıgüzel University. Bridging theoretical engineering with industry-grade implementation, I specialize in Frontend Development—architecting scalable, performance-optimized, and highly maintainable user interfaces true to clean-code paradigms.
+**EN** 🍓  
+After graduating from Istanbul Gelişim University in Web Design and Coding, I planted my first seeds in the software garden! 🌱 I further nurtured my technical skills with a Software Expertise certification from Istanbul Adıgüzel University. Now, as an enthusiastic **Junior Frontend Developer**, I focus on writing clean code and designing delightful, modern user interfaces. I am super eager to learn, grow, and blossom with every new project I build! ✨
 
 ---
 
-## Technical Ecosystem
+## 🧺 Teknoloji Sepetim | My Tech Basket
 
-Bileşen tabanlı (component-driven) UI mimarileri, merkezi state management çözümleri, asenkron veri yönetimi ve güvenli REST API entegrasyonları üzerinde çalışıyorum.
+Her gün sulayıp büyüttüğüm, bileşen tabanlı arayüzler ve modern web projeleri için kullandığım araçlar:
 
 <br />
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,php,cs,python,git,github,vscode,tailwind,postgres)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,cs,git,github,vscode,tailwind,postgres&theme=light" alt="My Skills" />
+  </a>
+</p>
+<br />
 
 ---
 
-## Production Repositories
+## 🍰 Bahçemden Projeler | My Harvested Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 SpendWise</h3>
+      <h3>💸 SpendWise (My Sweet Wallet)</h3>
       <p>
-        Çoklu cüzdan (multi-wallet) desteği, dinamik veri görselleştirme modülleri, periyodik harcama takipleri ve gelişmiş finansal analiz grafiklerine sahip kurumsal düzeyde FinTech panel uygulaması.
+        Harcamaları takip etmeyi eğlenceli hale getiren, çoklu cüzdan (multi-wallet) destekli finans paneli. Verileri grafiklerle tatlandırdığım ve durum yönetimini (state management) başarıyla uyguladığım keyifli bir proje.
       </p>
       <p>
-        <a href="https://github.com/busrajkara/SpendWise"><b>🔗 Source Code</b></a>
+        <a href="https://github.com/busrajkara/SpendWise"><b>🔗 Kodları İncele</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎬 Cinema Ticket App</h3>
+      <h3>🎟️ Strawberry Cinema Ticket App</h3>
       <p>
-        React tabanlı dinamik bilet otomasyon sistemi. Koltuk seçimi dinamikleri, seans ve salon listeleme algoritmaları ile modern UI/UX trendlerini birleştiren frontend projesi.
+        Dinamik koltuk seçimi ve seans listeleme özelliklerine sahip, modern UI/UX trendlerini barındıran React tabanlı tatlı bir bilet otomasyonu.
       </p>
       <p>
-        <a href="https://github.com/busrajkara/cinema-ticket-app"><b>🔗 Source Code</b></a>
+        <a href="https://github.com/busrajkara/cinema-ticket-app"><b>🔗 Kodları İncele</b></a>
       </p>
     </td>
   </tr>
@@ -60,19 +64,19 @@ Bileşen tabanlı (component-driven) UI mimarileri, merkezi state management ç�
     <td width="50%" valign="top">
       <h3>🦁 Zoo Memory Game</h3>
       <p>
-        Çocuklar için özel olarak kurgulanmış, interaktif öğrenme ve hafıza geliştirme odaklı web uygulaması. Akıcı state kontrolleri ve kullanıcı deneyimi (UX) odaklı arayüz çalışması.
+        Çocuklar için özel olarak kurguladığım, interaktif ve çok sevimli bir hafıza oyunu. React state kontrollerini oyunlaştırarak pratik ettiğim bir çalışma.
       </p>
       <p>
-        <a href="https://github.com/busrajkara/Zoo-Memory-Game"><b>🔗 Source Code</b></a>
+        <a href="https://github.com/busrajkara/Zoo-Memory-Game"><b>🔗 Kodları İncele</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📂 Recordly</h3>
+      <h3>📂 Recordly Data Patch</h3>
       <p>
-        Kullanıcı ve veri yönetim süreçlerini optimize eden web entegrasyonu. Bileşen tabanlı esnek kod mimarisi ve sürdürülebilir durum yönetimi (state management) pratiği.
+        Kullanıcı ve veri yönetimini düzenli bir bahçe gibi organize eden web entegrasyonu. Esnek kod yapısını ve sürdürülebilir mimariyi öğrenme sürecimin önemli bir parçası.
       </p>
       <p>
-        <a href="https://github.com/busrajkara/Recordly"><b>🔗 Source Code</b></a>
+        <a href="https://github.com/busrajkara/Recordly"><b>🔗 Kodları İncele</b></a>
       </p>
     </td>
   </tr>
@@ -80,20 +84,41 @@ Bileşen tabanlı (component-driven) UI mimarileri, merkezi state management ç�
 
 ---
 
-## Engineered Analytics
+## 📈 Büyüme İstatistiklerim | My Growing Analytics
 
-Aşağıdaki veriler GitHub API'leri üzerinden anlık ve dinamik olarak render edilmektedir. Geliştirme metriklerimi, dil kullanım yoğunluklarımı ve kodlama sürekliliğimi doğrulanabilir verilerle yansıtır.
-
-<br />
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=busrajkara&show_icons=true&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busrajkara&layout=compact&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9&bg_color=0d1117&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=busrajkara&theme=dracula&hide_border=true&background=0d1117&fire=ff79c6&ring=ff79c6&currStreakLabel=c9d1d9)
+GitHub verilerim tıpkı bir bahçe gibi her gün yeşeriyor ve büyüyor! 🎀
 
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <img src="https://github-readme-stats.vercel.app/api?username=busrajkara&show_icons=true&title_color=ff4da6&icon_color=ff4da6&text_color=5c5c5c&bg_color=fff0f5&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrajkara&layout=compact&title_color=ff4da6&icon_color=ff4da6&text_color=5c5c5c&bg_color=fff0f5&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=busrajkara&theme=default&hide_border=true&background=fff0f5&fire=ff4da6&ring=ff4da6&currStreakNum=ff4da6&sideNums=ff4da6&currStreakLabel=ff4da6&sideLabels=ff4da6&dates=5c5c5c" alt="GitHub Streak" />
+</p>
+
+---
+
+## 💌 İletişimde Kalalım | Get in Touch!
+
+Çilek bahçemde yeni fikirler yeşertmek veya projeler hakkında konuşmak istersen bana her zaman ulaşabilirsin! 
+
+<p align="center">
+  <a href="mailto:busra.kara.3234@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/b%C3%BC%C5%9Fra-kara-394aba317/">
+    <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <i>Bahçeme uğradığın için teşekkürler! Birlikte tatlı projeler inşa etmek dileğiyle... 🍓✨</i>
 </p>

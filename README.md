@@ -16,7 +16,7 @@
 ## 🌷 Hakkımda | About Me
 
 **TR** 🍓  
-İstanbul Gelişim Üniversitesi Web Tasarım ve Kodlama bölümünden mezun olduktan sonra, yazılım dünyasındaki çilek bahçeme ilk tohumları attım! 🌱 Ardından İstanbul Adıgüzel Üniversitesi'nde Yazılım Uzmanlığı eğitimi alarak teknik yeteneklerimi besledim. Şu an heyecanlı bir **Junior Frontend Developer** olarak; modern, kullanıcı dostu arayüzler tasarlıyor ve temiz kod (clean-code) prensiplerine özen gösteriyorum. Yeni teknolojiler keşfetmekten ve her projede kendime yeni bir şeyler katmaktan büyük mutluluk duyuyorum! ✨
+İstanbul Gelişim Üniversitesi Web Tasarım ve Kodlama bölümünden mezun oldukktan sonra, yazılım dünyasındaki çilek bahçeme ilk tohumları attım! 🌱 Ardından İstanbul Adıgüzel Üniversitesi'nde Yazılım Uzmanlığı eğitimi alarak teknik yeteneklerimi besledim. Şu an heyecanlı bir **Junior Frontend Developer** olarak; modern, kullanıcı dostu arayüzler tasarlıyor ve temiz kod (clean-code) prensiplerine özen gösteriyorum. Yeni teknolojiler keşfetmekten ve her projede kendime yeni bir şeyler katmaktan büyük mutluluk duyuyorum! ✨
 
 **EN** 🍓  
 After graduating from Istanbul Gelişim University in Web Design and Coding, I planted my first seeds in the software garden! 🌱 I further nurtured my technical skills with a Software Expertise certification from Istanbul Adıgüzel University. Now, as an enthusiastic **Junior Frontend Developer**, I focus on writing clean code and designing delightful, modern user interfaces. I am super eager to learn, grow, and blossom with every new project I build! ✨
@@ -98,8 +98,18 @@ GitHub verilerim tıpkı bir bahçe gibi her gün yeşeriyor ve büyüyor! 🎀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrajkara&layout=compact&title_color=ff4da6&icon_color=ff4da6&text_color=5c5c5c&bg_color=fff0f5&hide_border=true" alt="Top Languages" />
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=busrajkara&repo=busrajkara&theme=vision-friendly-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=busrajkara&layout=compact" width="48%" />
+</div>
+
+<!-- GitHub Readme Streak & Activity Radar -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=busrajkara&theme=default&hide_border=true&background=fff0f5&fire=ff4da6&ring=ff4da6&currStreakNum=ff4da6&sideNums=ff4da6&currStreakLabel=ff4da6&sideLabels=ff4da6&dates=5c5c5c" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=busrajkara&theme=tokyonight" alt="Profile Details" />
 </p>
 
 ---
@@ -111,9 +121,6 @@ GitHub verilerim tıpkı bir bahçe gibi her gün yeşeriyor ve büyüyor! 🎀
 <p align="center">
   <a href="mailto:busra.kara.3234@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/b%C3%BC%C5%9Fra-kara-394aba317/">
-    <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
